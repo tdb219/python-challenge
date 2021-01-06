@@ -58,7 +58,7 @@ with open(pypoll_csv, 'r') as pypoll_file:
     polls_csv = zip(votes, khan_total, khan_percent, khan_float, khan_round, 
         correy_total, correy_percent, correy_float, correy_round,
         li_total, li_percent, li_float, li_round,
-        otooley_total, otooley_percent, otooley_float, otooley_round,)
+        otooley_total, otooley_percent, otooley_float, otooley_round)
     
     output_file = os.path.join("poll_data.csv")
 
