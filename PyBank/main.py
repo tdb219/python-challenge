@@ -1,27 +1,3 @@
-# The dataset is composed of two columns: Date and Profit/Losses
-# Your task is to create a Python script that analyzes the records to calculate each of the following:
-
-    # The total number of months included in the dataset
-        #status: done 
-
-    # The net total amount of "Profit/Losses" over the entire period
-        #status: ip
-
-    # The average of the changes in "Profit/Losses" over the entire period
-        #status: ip
-
-    # The greatest increase in profits (date and amount) over the entire period
-        #status: ip
-
-    # The greatest decrease in losses (date and amount) over the entire period
-        #status: ip
-
-    # Use zip to upload onto CSV
-        #status: ip
-
-#Begin Code
-
-
 #import packages
 import os
 import csv
